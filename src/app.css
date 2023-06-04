@@ -1,35 +1,37 @@
-
-
-.title{ 
-    display: grid;
-    grid-template-columns: 100% 5%;
-    padding: 2em;
+.title {
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+  color: white;
+  letter-spacing: 5px;
+  padding: 1em;
+}
+.columns{
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+  font-size: 150%; /*L&L font size */
+  color: white;
+  font-family: "Poppins", sans-serif;
 }
 
-.container{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.menu { /* puts lens & light in middle of page*/
-    position: absolute; /* Keeps L&L from floating above picture*/
-    top: 30%;
-    width: 40%;
-    text-align: center;
-    font-size: 150%; /*L&L font size */
-    padding: 10px 0px;
-    color: white;
-    font-family: "Poppins", sans-serif;
+.column{
+  padding: 1em;
+  width: 50%;
+  text-align: center;
+  font-size: 120%; /*L&L font size */
+  color: white;
+  font-family: "Poppins", sans-serif;
+  float:left;
  }
 
-  .right {
-    width: 1500px;
-    height: 550px;
-    text-align: right;
-  }
-  
-  .right img {
-    width: 50%;
-    height: 70%;
-  }
+ .column is auto{
+  width: 50%;
+  float: right;
+  padding: 2em
+}
+
+* {
+	margin: 0;
+	padding: 0;
+  background-color: black;
+}
