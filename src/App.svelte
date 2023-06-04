@@ -1,9 +1,9 @@
 <script>
 </script>
-  <div class="title is-full has-text-centered">
+  <div class="title is-full is-full-mobile has-text-centered">
        Eoin & Eleanor's Dance Party
   </div>
-  <div class="columns">
+  <div class="columns is-full-mobile">
       <div class="column is-half has-text-centered">
         <ul>
           <li>Date: June 25, 2023</li> 
