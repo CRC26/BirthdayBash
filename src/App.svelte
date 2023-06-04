@@ -1,10 +1,10 @@
 <script>
 </script>
-  <div class="title is-full is-full-mobile has-text-centered">
+  <div class="title is-full-mobile has-text-centered">
        Eoin & Eleanor's Dance Party
   </div>
   <div class="columns is-full-mobile">
-      <div class="column is-half has-text-centered">
+      <div class="column is-half is-full-mobile has-text-centered">
         <ul>
           <li>Date: June 25, 2023</li> 
           <li>Location: Erin's Isle GAA Function Room</li>
@@ -16,8 +16,8 @@
            A bar is in the function room if parents want to grab a drink. Plenty of parking on premise. The 140 bus stop is a five minute walk.
         </p>
       </div>
-      <div class="column is auto">
-        <figure class='image is-250x128'>
+      <div class="column is-auto is-mobile">
+        <figure class='image'>
            <img src= "/ee2.jpg" alt="children sitting beside water">
         </figure>
       </div>

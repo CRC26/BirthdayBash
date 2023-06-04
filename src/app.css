@@ -24,10 +24,10 @@
   float:left;
  }
 
- .column is auto{
-  width: 50%;
+ .image{
+  width: 100%;
   float: right;
-  padding: 2em
+  padding: 1em
 }
 
 * {
