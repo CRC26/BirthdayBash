@@ -15,5 +15,9 @@
   },
   "dependencies": {
     "bulma": "^0.9.4"
+  },
+  
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
