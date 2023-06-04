@@ -1,0 +1,40 @@
+.title{ 
+    display: grid;
+    grid-template-columns: 100% 5%;
+    padding: 2em;
+}
+
+
+.main{
+    position: absolute; /* Keeps L&L from floating above picture*/
+    top: 35%;
+    width: 20%;
+    text-align: center;
+    font-size: 150%; /*L&L font size */
+    padding: 20px 0px;
+    letter-spacing: 1px; /* menu letter spacing*/
+    color: white;
+    font-family: "Poppins", sans-serif;
+
+}
+.menu { /* puts lens & light in middle of page*/
+    position: absolute; /* Keeps L&L from floating above picture*/
+    top: 15%;
+    width: 40%;
+    text-align: center;
+    font-size: 150%; /*L&L font size */
+    padding: 10px 0px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+ }
+
+  .right {
+    width: 1500px;
+    height: 550px;
+    text-align: right;
+  }
+  
+  .right img {
+    width: 50%;
+    height: 70%;
+  }
