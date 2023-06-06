@@ -3,7 +3,7 @@
 
 
   <div class="title is-size-5-mobile has-text-centered">
-       Eoin & Eleanor's Dance Party
+       Eoin & Eleanor's Birthday Bash
   </div>
   <div class="columns is-full-mobile">
       <div class="column is-size-6-mobile is-half is-full-mobile has-text-centered">
@@ -13,7 +13,7 @@
           <li>Time: 2:30 - 4:30pm </li>
         </ul>
         <br>
-        <p>Eoin and Eleanor will be celebrating the end of year with a dance party. 
+        <p>Eoin and Eleanor will be celebrating their birthdays with a dance party. 
            Parents and siblings are more than welcome to attend.
            A bar is in the function room if parents want to grab a drink. 
            Plenty of parking on premises is available.
