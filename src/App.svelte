@@ -13,9 +13,11 @@
           <li>Time: 2:30 - 4:30pm </li>
         </ul>
         <br>
-        <p>Eoin and Eleanor will be celebrating birthdays with a dance party. 
+        <p>Eoin and Eleanor will be celebrating the end of year with a dance party. 
            Parents and siblings are more than welcome to attend.
-           A bar is in the function room if parents want to grab a drink. Plenty of parking on premise. The 140 bus stop is a five minute walk.
+           A bar is in the function room if parents want to grab a drink. 
+           Plenty of parking on premises is available.
+           The 140 bus stop is a five minute walk.
         </p>
       </div>
       <div class="column is-12-mobile">
