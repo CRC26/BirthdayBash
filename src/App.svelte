@@ -18,6 +18,7 @@
            A bar is in the function room if parents want to grab a drink. 
            Plenty of parking on premises is available.
            The 140 bus stop is a five minute walk.
+           Toys are so passe, hugs are in! No gifts, please.
         </p>
       </div>
       <div class="column is-12-mobile">
